@@ -1,11 +1,8 @@
 # Book settings
 title: InsiderTrader
-author: Tuhin Mallick
+author: Anshitha
 logo: docs/images/logo.jpg
 
-repository:
-  url: https://github.com/tuhinmallick/InsiderTrader
-  branch: main
 
 html:
   home_page_in_navbar: false
@@ -13,6 +10,5 @@ html:
   use_edit_page_button: true
   use_repository_button: true
   use_issues_button: true
-  baseurl: https://github.com/tuhinmallick/InsiderTrader
-
+ 
 only_build_toc_files: true

@@ -1,6 +1,5 @@
-% Author: Sheikh Rabiul Islam
-% Date: 11/20/2017
-% Purpose: Discrete singal( time series) similarity measures
+
+% Purpose: Discrete signal( time series) similarity measures
 close all
 
 %global variables

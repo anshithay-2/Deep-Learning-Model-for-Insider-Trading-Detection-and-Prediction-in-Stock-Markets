@@ -1,6 +1,4 @@
-# Code template by Jakob Aungiers 
-# Modified by: Sheikh Rabiul Islam
-# Date: 11/10/2017 
+
 # Purpose : stock market volatility prediction
 import os
 import time
